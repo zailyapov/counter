@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+.plus{
+  background-color: green;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.minus{
+  background-color: red;
+  cursor: pointer;
+}
